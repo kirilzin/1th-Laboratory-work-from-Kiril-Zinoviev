@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1789563154 source:c:\users\1\11111111111111111111111111\c-chka\lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
